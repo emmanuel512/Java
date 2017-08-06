@@ -1,3 +1,3 @@
 # Java
-Repository of java project and source code
+Repository of java projects and source code
 
